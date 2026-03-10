@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <!-- [![Paper](https://img.shields.io/badge/Paper-TODO-blue.svg)](TODO)  -->
-<!-- [![Dataset](https://img.shields.io/badge/Dataset-TODO-green.svg)](TODO)-->
+[![Dataset](https://img.shields.io/badge/Dataset-Figshare-green.svg)](https://doi.org/10.6084/m9.figshare.31569370)
 [![Model](https://img.shields.io/badge/HuggingFace-yinjoy30/BMAT-orange.svg)](https://huggingface.co/yinjoy30/BMAT)
 
 ## Overview
@@ -11,7 +11,7 @@ BMAT is the first global, longitudinal dataset of building facade materials mapp
 
 Material categories: `brick` · `concrete` · `glass` · `metal` · `stone` · `stucco` · `tile` · `wood` · `other`
 
-📦 **Dataset**: [TODO] &nbsp;·&nbsp; 🤗 **Model**: [yinjoy30/BMAT](https://huggingface.co/yinjoy30/BMAT)
+📦 **Dataset**: [BMAT](https://doi.org/10.6084/m9.figshare.31569370) &nbsp;·&nbsp; 🤗 **Model**: [yinjoy30/BMAT](https://huggingface.co/yinjoy30/BMAT)
 
 ## Pipeline
 
