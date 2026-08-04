@@ -16,7 +16,7 @@ Material categories: `brick` · `concrete` · `glass` · `metal` · `stone` · `
 ## Pipeline
 
 <p align="center">
-<img width="8122" height="5749" alt="流程图" src="https://github.com/user-attachments/assets/27a712bb-d7fd-4349-b614-5dc7f96c3235" />
+<img width="8122" height="5749" alt="流程图" src="workflow.png" />
 <br>
 <em>Workflow of the BMAT dataset production pipeline.</em>
 </p>
@@ -94,14 +94,15 @@ Labelled training data is located in `data/label/`:
 
 
 
-<!-- ## Citation
+
 ```bibtex
-@article{yin2025bmat,
-  title   = {BMAT: A global dataset of building material attributes and temporal records at the footprint level},
+@article{yin2026bmat,
+  title   = {BMAT: A footprint-level building facade material dataset for 73 major cities worldwide},
   author  = {Yin, Hanyu and Zhang, Fan and Wang, Yuqing and Wu, Lun and Liu, Yu},
-  journal = {TODO},
-  year    = {2025},
-  doi     = {TODO}
+  journal = {Earth System Science Data Discussions},
+  year    = {2026},
+  doi     = {10.5194/essd-2026-345},
+  url     = {https://doi.org/10.5194/essd-2026-345}
 }
 ```
--->
+
